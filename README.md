@@ -1,2 +1,2 @@
 # data-analyst
-This project is part of my journey to becoming a data analyst.
+This project is part of my journey to becoming a data analyst. The goal is to develop essential data analysis skills, including data cleaning, data manipulation, exploratory data analysis (EDA), and data visualization, using Python, Power BI, and SQL. By working with real-world datasets, I aim to build a solid foundation in analyzing and visualizing data to generate meaningful insights.
